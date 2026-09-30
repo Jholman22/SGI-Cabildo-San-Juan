@@ -1,0 +1,23 @@
+# Compilados / cachés de Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Artefactos de PyInstaller (se regeneran con el comando del README)
+build/
+dist/
+*.spec
+
+# Entornos virtuales
+venv/
+.venv/
+env/
+
+# Archivos del sistema operativo
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Configuración de editores
+.vscode/
+.idea/
